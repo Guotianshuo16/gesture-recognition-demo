@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run Hand Gesture Demo",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/hand_gesture_demo.py",
+            "console": "integratedTerminal",
+            "python": "C:/Users/ASUS/AppData/Local/Programs/Python/Python310/python.exe",
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}

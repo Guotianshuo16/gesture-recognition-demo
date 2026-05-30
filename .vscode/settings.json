@@ -1,0 +1,8 @@
+{
+    "python.defaultInterpreterPath": "C:\\Users\\ASUS\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+    "python.terminal.activateEnvironment": false,
+    "python.terminal.executeInFileDir": true,
+    "terminal.integrated.env.windows": {
+        "PATH": "C:\\Users\\ASUS\\AppData\\Local\\Programs\\Python\\Python310;C:\\Users\\ASUS\\AppData\\Local\\Programs\\Python\\Python310\\Scripts;${env:PATH}"
+    }
+}
